@@ -2,3 +2,5 @@ PyQt6>=6.4.0
 moviepy>=1.0.3
 pillow>=9.0.0
 numpy>=1.20.0
+openai-whisper>=20230101
+qdarkstyle>=3.2.3
